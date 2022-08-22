@@ -1,9 +1,9 @@
 - 👋 Olá! Eu sou Sidnei Barros.
 
-- 💼 Atualmente trabalho com design de interface e UX no desenvolvimento EAD.
-- 📕 Estudando e aperfeiçoando meus conhecimentos em Frontend (HTML, CSS e JavaScript).
-- 🔍 Estou a procura de oportunidades atuar como freelancer.
-- 🔍 sidneisrbarros@gmail.com.
+- 💼 Atuo como professor de design e no desenvolvimento EAD como UI e UX designer.
+- 📕 Sigo aperfeiçoando meus conhecimentos em Frontend (HTML, CSS e JavaScript).
+- 🔍 Estou disponível para atuar em projetos como desenvolvedor web.
+- ✉️ sidneisrbarros@gmail.com.
 
 <div style="display: flex">
   <a href="https://github.com/sidneirocha">
