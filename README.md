@@ -1,6 +1,6 @@
 - 👋 Olá! Eu sou Sidnei Barros.
 
-- 💼 Atuo como professor de design e no desenvolvimento EAD como UI e UX designer.
+- 💼 Atuo como professor de design e no desenvolvimento de soluções EAD como UI e UX designer.
 - 📕 Sigo aperfeiçoando meus conhecimentos em Frontend (HTML, CSS e JavaScript).
 - 🔍 Estou disponível para atuar em projetos como desenvolvedor web.
 - ✉️ sidneisrbarros@gmail.com.
