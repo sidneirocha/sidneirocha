@@ -1,7 +1,5 @@
 # 👋 Olá! Eu sou Sidnei Barros
 
-🎨 **UI/UX Designer • AI Coder • Vibe Coding**
-
 Atuo na criação de produtos digitais, unindo **design, experiência do usuário, tecnologia e Inteligência Artificial** para transformar ideias em interfaces e aplicações funcionais.
 
 - 💼 **UI/UX Designer** com experiência em produtos digitais e soluções para educação e EAD.
